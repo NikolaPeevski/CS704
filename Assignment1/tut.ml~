@@ -1,0 +1,6 @@
+let funca a b = a + b in
+    let funcb = funca 123 in
+    let funcc = funcb in
+    funcc 456;;
+
+let () = print_endline "Hello, World!"
