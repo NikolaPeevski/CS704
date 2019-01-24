@@ -19,3 +19,10 @@ This repository covers the assignments over at CS704
 ## Writing OCaml
 1. `emacs file1.ml`
 2. `ocaml file1.ml`
+
+### Style guide
+
+The style guide can be found at https://ocaml.org/learn/tutorials/guidelines.html
+
+## References
+https://medium.com/@argent_smith/beginners-ocaml-setup-on-mac-fc206747b1ab
