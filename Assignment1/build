@@ -1,0 +1,4 @@
+#!/bin/sh
+# Build the tester programs.
+
+exec ocamlbuild BetaLorCheck.byte BetaLorRepl.byte ToDeBruijnCheck.byte ToDeBruijnRepl.byte
